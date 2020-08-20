@@ -1,5 +1,5 @@
 {
-  "name": "mobile",
+  "name": "conceito",
   "version": "0.0.1",
   "private": true,
   "scripts": {
@@ -29,5 +29,9 @@
     "jest": "^25.2.7",
     "metro-react-native-babel-preset": "^0.59.0",
     "react-test-renderer": "16.11.0"
-  }
+  },
+  "main": "index.js",
+  "repository": "https://github.com/jnerydesigner/conceitos-react-native.git",
+  "author": "jnerydesigner <jander.webmaster@gmail.com>",
+  "license": "MIT"
 }
