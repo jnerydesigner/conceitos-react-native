@@ -1,4 +1,4 @@
-![Banner Keep Coding](https://github.com/jnerydesigner/conceitos-react-native/blob/master/Wallpaper%20Keep%20Coding%20-%201920x1080.jpg)
+![Banner Keep Coding]("https://github.com/jnerydesigner/conceitos-react-native/blob/master/Wallpaper%20Keep%20Coding%20-%201920x1080.jpg")
 
 # Resultados do Teste de React Native do Bootcamp 13
 
