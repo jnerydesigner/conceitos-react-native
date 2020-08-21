@@ -8,5 +8,4 @@
 
 ## By Jander Nery
 
-###Linkedin
-<https://www.linkedin.com/in/jander-nery-61531335/>
+## [Linkedin](https://www.linkedin.com/in/jander-nery-61531335/)
